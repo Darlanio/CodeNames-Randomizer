@@ -6,7 +6,7 @@
         id        = "com.phonegap.codenames"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>CodeNames Randomizer</name>
 
     <description>
         Want more randomized patterns for CodeNames Boardgame? This is the solution!
